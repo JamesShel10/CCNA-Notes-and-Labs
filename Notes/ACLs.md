@@ -14,4 +14,6 @@ ACLs - Access Control Lists
    - ACLs can filter traffic based on source/destination ip addresses, source/destination Layer 4 ports
      
 2) How ACLs work (ACL logic)
+
+   
    <img width="389" height="125" alt="image" src="https://github.com/user-attachments/assets/02938648-d108-48d4-9684-7766a95f9b3c" />
