@@ -14,8 +14,7 @@ ACLs - Access Control Lists
    - ACLs can filter traffic based on source/destination ip addresses, source/destination Layer 4 ports
      
 2) How ACLs work (ACL logic)?
-   - Configuring an ACL in global config mode will not make the ACL take effect.
-   - The ACL must be applied to an interface
+   - ACLs are defined in global config but must be applied to an interface to take effect.
    - ACLs are applied either inbound or outbound
    - They are an ordered sequence of ACEs(Access Control Entries) and made up of one or more ACEs.
    - Note/ order of ACL is important
